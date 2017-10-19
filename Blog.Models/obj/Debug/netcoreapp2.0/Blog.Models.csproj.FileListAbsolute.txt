@@ -1,0 +1,9 @@
+D:\Blog\Blog.Models\bin\Debug\netcoreapp2.0\Blog.Models.deps.json
+D:\Blog\Blog.Models\bin\Debug\netcoreapp2.0\Blog.Models.dll
+D:\Blog\Blog.Models\bin\Debug\netcoreapp2.0\Blog.Models.pdb
+D:\Blog\Blog.Models\obj\Debug\netcoreapp2.0\Blog.Models.csproj.CoreCompileInputs.cache
+D:\Blog\Blog.Models\obj\Debug\netcoreapp2.0\Blog.Models.AssemblyInfoInputs.cache
+D:\Blog\Blog.Models\obj\Debug\netcoreapp2.0\Blog.Models.AssemblyInfo.cs
+D:\Blog\Blog.Models\obj\Debug\netcoreapp2.0\Blog.Models.dll
+D:\Blog\Blog.Models\obj\Debug\netcoreapp2.0\Blog.Models.pdb
+D:\Blog\Blog.Models\obj\Debug\netcoreapp2.0\Blog.Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Blog\Blog.DAL\bin\Debug\netcoreapp2.0\Blog.DAL.deps.json
+D:\Blog\Blog.DAL\bin\Debug\netcoreapp2.0\Blog.DAL.dll
+D:\Blog\Blog.DAL\bin\Debug\netcoreapp2.0\Blog.DAL.pdb
+D:\Blog\Blog.DAL\bin\Debug\netcoreapp2.0\Blog.IDAL.dll
+D:\Blog\Blog.DAL\bin\Debug\netcoreapp2.0\Blog.Models.dll
+D:\Blog\Blog.DAL\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Blog\Blog.DAL\bin\Debug\netcoreapp2.0\Blog.IDAL.pdb
+D:\Blog\Blog.DAL\bin\Debug\netcoreapp2.0\Blog.Models.pdb
+D:\Blog\Blog.DAL\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Blog\Blog.DAL\obj\Debug\netcoreapp2.0\Blog.DAL.csprojResolveAssemblyReference.cache
+D:\Blog\Blog.DAL\obj\Debug\netcoreapp2.0\Blog.DAL.csproj.CoreCompileInputs.cache
+D:\Blog\Blog.DAL\obj\Debug\netcoreapp2.0\Blog.DAL.AssemblyInfoInputs.cache
+D:\Blog\Blog.DAL\obj\Debug\netcoreapp2.0\Blog.DAL.AssemblyInfo.cs
+D:\Blog\Blog.DAL\obj\Debug\netcoreapp2.0\Blog.DAL.dll
+D:\Blog\Blog.DAL\obj\Debug\netcoreapp2.0\Blog.DAL.pdb

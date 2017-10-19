@@ -1,0 +1,32 @@
+﻿@model Blog.IDAL.Repository.User.Dto.User.UserDto
+    @{ 
+        ViewData["Title"] = "Login";
+    }
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    @{
+        using (Html.BeginForm())
+        {
+            <div class="form-group">
+                @Html.LabelFor(m=>m.EmailAddress)
+                @Html.TextBoxFor(m => m.EmailAddress, new { @class = "form-control col-lg-2", placeholder = "Email地址" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Password)
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control col-lg-2", placeholder = "密码" })
+            </div>
+            @Html.ValidationSummary();
+            <div class="btn-group pull-right">
+                <button class="btn-primary" asp-controller="Account" asp-action="Login">登陆</button>
+                <button class="btn-primary" asp-controller="Home" asp-action="Index">返回主页</button>
+                </div>
+        }
+    }
+</body>
+</html>

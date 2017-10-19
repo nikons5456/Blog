@@ -1,0 +1,11 @@
+D:\Blog\Blog.IDAL\bin\Debug\netcoreapp2.0\Blog.IDAL.deps.json
+D:\Blog\Blog.IDAL\bin\Debug\netcoreapp2.0\Blog.IDAL.dll
+D:\Blog\Blog.IDAL\bin\Debug\netcoreapp2.0\Blog.IDAL.pdb
+D:\Blog\Blog.IDAL\bin\Debug\netcoreapp2.0\Blog.Models.dll
+D:\Blog\Blog.IDAL\bin\Debug\netcoreapp2.0\Blog.Models.pdb
+D:\Blog\Blog.IDAL\obj\Debug\netcoreapp2.0\Blog.IDAL.csprojResolveAssemblyReference.cache
+D:\Blog\Blog.IDAL\obj\Debug\netcoreapp2.0\Blog.IDAL.csproj.CoreCompileInputs.cache
+D:\Blog\Blog.IDAL\obj\Debug\netcoreapp2.0\Blog.IDAL.AssemblyInfoInputs.cache
+D:\Blog\Blog.IDAL\obj\Debug\netcoreapp2.0\Blog.IDAL.AssemblyInfo.cs
+D:\Blog\Blog.IDAL\obj\Debug\netcoreapp2.0\Blog.IDAL.dll
+D:\Blog\Blog.IDAL\obj\Debug\netcoreapp2.0\Blog.IDAL.pdb

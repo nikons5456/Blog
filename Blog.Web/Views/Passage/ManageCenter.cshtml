@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "ManageCenter";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>管理中心</h2>
+
+<div class="container">
+    <div class="jumbotron">
+        <h2>Content</h2>
+        @for (int i = Model.Count - 1; i >= 0; i--)
+        {
+            <p>@Model[i].PublishTime:<a href=@Url.Content("~/Passage/Manage/"+Model[i].Id)>@Model[i].Title</a></p>
+        }
+    </div>
+</div>

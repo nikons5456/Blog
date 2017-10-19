@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@for (int i = Model.Count - 1; i >= 0; i--)
+{
+    <div class="container">
+        <div class="jumbotron">
+            <h2><a href="@Url.Content("~/Passage/Details/"+Model[i].Id)">@Model[i].Title</a></h2>
+            <p>@Model[i].Description</p>
+            <p>@Model[i].PublishTime</p>
+        </div>
+    </div>
+}

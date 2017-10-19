@@ -1,0 +1,13 @@
+D:\Blog\Blog.Service\bin\Debug\netcoreapp2.0\Blog.Service.deps.json
+D:\Blog\Blog.Service\bin\Debug\netcoreapp2.0\Blog.Service.dll
+D:\Blog\Blog.Service\bin\Debug\netcoreapp2.0\Blog.Service.pdb
+D:\Blog\Blog.Service\bin\Debug\netcoreapp2.0\Blog.IDAL.dll
+D:\Blog\Blog.Service\bin\Debug\netcoreapp2.0\Blog.Models.dll
+D:\Blog\Blog.Service\bin\Debug\netcoreapp2.0\Blog.IDAL.pdb
+D:\Blog\Blog.Service\bin\Debug\netcoreapp2.0\Blog.Models.pdb
+D:\Blog\Blog.Service\obj\Debug\netcoreapp2.0\Blog.Service.csprojResolveAssemblyReference.cache
+D:\Blog\Blog.Service\obj\Debug\netcoreapp2.0\Blog.Service.csproj.CoreCompileInputs.cache
+D:\Blog\Blog.Service\obj\Debug\netcoreapp2.0\Blog.Service.AssemblyInfoInputs.cache
+D:\Blog\Blog.Service\obj\Debug\netcoreapp2.0\Blog.Service.AssemblyInfo.cs
+D:\Blog\Blog.Service\obj\Debug\netcoreapp2.0\Blog.Service.dll
+D:\Blog\Blog.Service\obj\Debug\netcoreapp2.0\Blog.Service.pdb

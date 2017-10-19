@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+<div class="container">
+    <div class="jumbotron">
+        <h1><b>@Model.Title</b></h1>
+        <p>@Model.PublishTime</p>
+           @Html.Raw(System.Web.HttpUtility.HtmlDecode(Model.Content))
+    </div>
+</div>
+<script>
+    $("document").ready(function () {
+        $("img").attr("class", "img-responsive center-block");
+    });
+</script>
+

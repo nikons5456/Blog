@@ -1,0 +1,36 @@
+﻿@model Blog.Models.Passage.Passage
+@{
+    ViewData["Title"] = "Manage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>管理文章</h2>
+@{
+    using (Html.BeginForm())
+    {
+        <div class="btn-group pull-right">
+
+            <button class="btn btn-primary btn-lg" asp-controller="Passage" asp-action="Update">保存</button>
+            <button class="btn btn-primary btn-lg" asp-controller="Home" asp-action="Index">回主页</button>
+            <button class="btn btn-primary btn-lg" asp-controller="Passage" asp-action="Delete/@Model.Id">删除</button>
+
+        </div>
+        <div style="width:100%">
+            <div class="form-group" style="width:100%">
+                @Html.LabelFor(m => m.Title)
+                @Html.TextBoxFor(m => m.Title, new { @class = "form-control", placeholder = "输入标题" })
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Description)
+                @Html.TextBoxFor(m => m.Description, new { @class = "form-control", placeholder = "输入描述" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(t => t.Content)
+                @Html.TextAreaFor(t => t.Content, new { id = "htmlcode",style = "width:100%;height:500px; background:#CBEFD9;font-size:22px;" })
+            </div>
+            <div id="preview" style="float:right;width:50%;height:100%; border:0.5px solid #315;background:#e6e6e6;"></div>
+        </div>
+    }
+}
+
