@@ -1,4 +1,4 @@
-#使用说明
+# 使用说明 #
 
 ## 开发工具 ##
 
@@ -6,7 +6,7 @@ Vs2017 Community
 
 SqlServer2017 Development
 
-##操作说明
+## 操作说明 ##
 
 * 修改 `Blog.DAL-BlogDbContext.cs` 文件中OnConfiguring重载函数中数据库配置,以及 `Blog.Web-appsetting.json` 数据库配置
 
